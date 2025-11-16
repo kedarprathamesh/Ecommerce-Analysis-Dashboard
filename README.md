@@ -1,7 +1,3 @@
-Absolutely! Here's your updated GitHub description with a dedicated section for embedding a snapshot in the README:
-
----
-
 ## 🛒 Ecommerce Sales Analysis Dashboard
 
 ### 📸 Dashboard Snapshot
